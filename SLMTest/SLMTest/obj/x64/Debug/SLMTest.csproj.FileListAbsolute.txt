@@ -1,0 +1,9 @@
+C:\Users\Maru\spb\Dev\_habr\math_tests\SLMTest\SLMTest\obj\x64\Debug\SLMTest.csproj.AssemblyReference.cache
+C:\Users\Maru\spb\Dev\_habr\math_tests\SLMTest\SLMTest\obj\x64\Debug\SLMTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maru\spb\Dev\_habr\math_tests\SLMTest\SLMTest\obj\x64\Debug\SLMTest.csproj.CoreCompileInputs.cache
+C:\Users\Maru\spb\Dev\_habr\math_tests\SLMTest\SLMTest\bin\x64\Debug\SLMTest.exe.config
+C:\Users\Maru\spb\Dev\_habr\math_tests\SLMTest\SLMTest\bin\x64\Debug\SLMTest.exe
+C:\Users\Maru\spb\Dev\_habr\math_tests\SLMTest\SLMTest\bin\x64\Debug\SLMTest.pdb
+C:\Users\Maru\spb\Dev\_habr\math_tests\SLMTest\SLMTest\obj\x64\Debug\SLMTest.csproj.CopyComplete
+C:\Users\Maru\spb\Dev\_habr\math_tests\SLMTest\SLMTest\obj\x64\Debug\SLMTest.exe
+C:\Users\Maru\spb\Dev\_habr\math_tests\SLMTest\SLMTest\obj\x64\Debug\SLMTest.pdb
